@@ -1,6 +1,6 @@
 ## Welcome to HCI Project Home Page
 
- [Milestone 1](https://github.com/lsharples1/HCIProject/edit/gh-pages/milestone1.md) 
+ [Milestone 1](https://github.com/lsharples1/HCIProject/edit/gh-pages/milestone1) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
