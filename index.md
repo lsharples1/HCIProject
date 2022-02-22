@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to HCI Project Home Page
 
 You can use the [editor on GitHub](https://github.com/lsharples1/HCIProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
