@@ -5,7 +5,13 @@ h1 {
 body {
     background-color: rgb(158, 236, 236);
 }
-
+table, th, td {
+    border:1px solid black;
+  }
+img{
+    max-width:100%;
+	height:auto;
+}
 button {
     background-color: #1c87c9;
     border: none;
